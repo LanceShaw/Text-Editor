@@ -1,5 +1,6 @@
 # MASM-editor
 
+## by Jianzhe Liang, Yushan Shao, Chenguang Fang
 ## a text editor based on masm32, kernal32, msvcrt, windows
 
 + 11.14 finish link,node and string<br>
